@@ -1,0 +1,42 @@
+_repo: History-of-the-United-States_16960
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Beard, Mary Ritter
+    birthdate: 1876
+    deathdate: 1958
+    gutenberg_agent_id: '7053'
+    url: http://www.gutenberg.org/2009/agents/7053
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Ritter_Beard
+  - agent_name: Beard, Charles A. (Charles Austin)
+    birthdate: 1874
+    deathdate: 1948
+    gutenberg_agent_id: '7052'
+    url: http://www.gutenberg.org/2009/agents/7052
+    wikipedia: http://en.wikipedia.org/wiki/Charles_A._Beard
+description: 'Go to top; PREFACE; 1; 2; 3; John Winthrop, Governor of the Massachusetts
+  Bay Company; 4; 5; 6; William Penn, Proprietor of Pennsylvania; 7; German and Scotch-Irish
+  Settlements; 9; 10; A Glimpse of Old Germantown; 11; Old Dutch Fort and English
+  Church Near Albany; 12; 13; 15; 16; 17; 20; 21; 22; 23; Southern Plantation Mansion;
+  A New England Farmhouse; 25; 28; Distribution of Population in 1790; Domestic Industry:
+  Dipping Tallow Candles; 31; 32; 33; The Dutch West India Warehouse in New Amsterdam
+  (New York City); 35; 36; Social and Political Progress; 39; 40; 41; 42; 43.'
+gutenberg_bookshelf:
+- United States
+- Children's History
+gutenberg_issued: '2005-10-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16960'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E151'
+- !lcsh 'United States -- History'
+title: History of the United States
+url: http://www.gutenberg.org/ebooks/16960
