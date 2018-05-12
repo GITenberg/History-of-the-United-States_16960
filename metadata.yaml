@@ -24,6 +24,8 @@ description: 'Go to top; PREFACE; 1; 2; 3; John Winthrop, Governor of the Massac
   A New England Farmhouse; 25; 28; Distribution of Population in 1790; Domestic Industry:
   Dipping Tallow Candles; 31; 32; 33; The Dutch West India Warehouse in New Amsterdam
   (New York City); 35; 36; Social and Political Progress; 39; 40; 41; 42; 43.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16960#History-of-the-United-States
 gutenberg_bookshelf:
 - United States
 - Children's History
